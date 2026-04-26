@@ -1,10 +1,7 @@
 🚀 AI Side Hustle OS
 
 Stop searching for side hustles.
-
 👉 Start generating your own.
-
-🔥 What is this?
 
 Most people ask:
 
@@ -13,6 +10,9 @@ Most people ask:
 This system flips the question:
 
 👉 “Given who YOU are — how do YOU make money?”
+
+🚀 👉Live Demo (GitHub Pages)
+wilingna.github.io/ai-side-hustle/
 
 ## 🧪 What you actually get
 
@@ -58,10 +58,6 @@ Understand → Design → Guide → Execute
 People who want a second income
 People tired of “generic赚钱建议”
 People who want clarity, not noise
-🚀 Try it
-
-👉 Live Demo (GitHub Pages)
-https://wilingna.github.io/ai-side-hustle/
 
 🛠 Local Setup
 npm install

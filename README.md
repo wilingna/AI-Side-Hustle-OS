@@ -61,7 +61,7 @@ People who want clarity, not noise
 🚀 Try it
 
 👉 Live Demo (GitHub Pages)
-https://github.com/wilingna/ai-side-hustle
+https://wilingna.github.io/ai-side-hustle/
 
 🛠 Local Setup
 npm install
